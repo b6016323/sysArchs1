@@ -4,3 +4,5 @@ h1{color:purple;font-family:aharoni;}
 h3{color:blue;font-family:garamond;}
 ul{list-style-type:lower-roman;color:yellow;font-family:"iskoola pota";}
 hr{color:grey;}
+table{color:red;font-family:sans-serif;}
+table nth-child:even {background-color:light-grey;}
