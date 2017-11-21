@@ -1,6 +1,6 @@
-body{background-color:pink;}
+body{background-color:pink;border:thin solid black;}
 p{color:green;font-family:arial;}
 h1{color:purple;font-family:aharoni;}
 h3{color:blue;font-family:garamond;}
-ul{list-style-type:lower-roman;
-  color:yellow;font-family:"iskoola pota";}
+ul{list-style-type:lower-roman;color:yellow;font-family:"iskoola pota";}
+hr{color:grey;}
